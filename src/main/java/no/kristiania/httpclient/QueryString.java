@@ -8,5 +8,4 @@ public class QueryString {
     public String getParameter(String name) {
         return "200";
     }
-    // Just remove
 }
